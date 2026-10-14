@@ -1,4 +1,4 @@
-# College Quest Prototype
+# Design Sprint Prototype
 
 College Quest is an interactive roadmap that introduces students to the main stages of planning for and applying to college.
 
