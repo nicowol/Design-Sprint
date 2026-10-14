@@ -1,7 +1,5 @@
 # Design Sprint Prototype
 
-College Quest is an interactive roadmap that introduces students to the main stages of planning for and applying to college.
-
 ## Installation
 
 1. Download or clone this repository.
